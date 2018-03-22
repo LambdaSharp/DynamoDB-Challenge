@@ -1,7 +1,5 @@
 # λ# Store Data with Lambda and DynamoDB - March 2018 Team Hackathon Challenge
 
-SLIDES: [Team Hackathon Challenge #24](https://docs.google.com/presentation/d/1jCkigfG5lM07xIkLrirwYYijhCrSDrXxzdDAE0RiKnE/edit#slide=id.g35bdd2bddf_0_0)
-
 DynamoDB, a NoSQL database, allows quick prototyping as a strict schema does not need to be formulated. With some data input management, data throughput can scale easily to store large amounts of data.
 
 In this challenge, a [google trends](https://trends.google.com/trends/) client (provided) will output a JSON into an S3 bucket. This JSON contains the popularity of specified search keywords for specified countries over a year time period. 
