@@ -1,4 +1,4 @@
-# λ# Store Data with Lambda and DynamoDB - March 2018 Team Hackathon Challenge
+# λ# Store Data with Lambda and DynamoDB
 
 DynamoDB, a NoSQL database, allows quick prototyping as a strict schema does not need to be formulated. With some data input management, data throughput can scale easily to store large amounts of data.
 
